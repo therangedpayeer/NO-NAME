@@ -119,7 +119,7 @@ do -- Load items
     Presets.Name = "Presets"
     Presets.Parent = imgui2
     Presets.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-    Presets.Size = UDim2.new(0, 100, 0, 100)
+    Presets.Size = UDim2.new(0, 150, 0, 200)
     Presets.Visible = false
 
     Label.Name = "Label"
